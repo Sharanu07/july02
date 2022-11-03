@@ -13,10 +13,10 @@ public class Base {
 	     return driver;
 	}
 	
-	public static WebDriver openFirefoxBrowser() {
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\ADMIN\\Desktop\\software\\geckodriver.exe");
-		 WebDriver driver= new FirefoxDriver();
-	     return driver;
-	}
+	//public static WebDriver openFirefoxBrowser() {
+	//	System.setProperty("webdriver.gecko.driver", "C:\\Users\\ADMIN\\Desktop\\software\\geckodriver.exe");
+	//	 WebDriver driver= new FirefoxDriver();
+	   //  return driver;
+	//}
 
 }
