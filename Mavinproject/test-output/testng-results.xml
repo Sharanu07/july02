@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name=" regressionSuite" duration-ms="30628" started-at="2022-10-25T10:58:50 IST" finished-at="2022-10-25T10:59:20 IST">
+    <groups>
+    </groups>
+    <test name="Chrometest" duration-ms="20654" started-at="2022-10-25T10:58:50 IST" finished-at="2022-10-25T10:59:10 IST">
+      <class name="facebooklogin.TestClassforcrossbrws">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="launchBrowser" is-config="true" duration-ms="2664" started-at="2022-10-25T10:58:50 IST" finished-at="2022-10-25T10:58:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="createPOMObjects()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="createPOMObjects" is-config="true" duration-ms="80" started-at="2022-10-25T10:58:52 IST" finished-at="2022-10-25T10:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMObjects -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="beforeMethod" is-config="true" duration-ms="8943" started-at="2022-10-25T10:58:53 IST" finished-at="2022-10-25T10:59:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test123()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="test123" duration-ms="2075" started-at="2022-10-25T10:59:01 IST" finished-at="2022-10-25T10:59:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test123 -->
+        <test-method status="PASS" signature="logOutFromApllication()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="logOutFromApllication" is-config="true" duration-ms="0" started-at="2022-10-25T10:59:04 IST" finished-at="2022-10-25T10:59:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApllication -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="beforeMethod" is-config="true" duration-ms="2920" started-at="2022-10-25T10:59:04 IST" finished-at="2022-10-25T10:59:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1234()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="test1234" duration-ms="2977" started-at="2022-10-25T10:59:06 IST" finished-at="2022-10-25T10:59:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1234 -->
+        <test-method status="PASS" signature="logOutFromApllication()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="logOutFromApllication" is-config="true" duration-ms="1" started-at="2022-10-25T10:59:09 IST" finished-at="2022-10-25T10:59:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApllication -->
+        <test-method status="PASS" signature="clearObject()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="clearObject" is-config="true" duration-ms="0" started-at="2022-10-25T10:59:09 IST" finished-at="2022-10-25T10:59:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObject -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:facebooklogin.TestClassforcrossbrws@2a70a3d8]" name="closeBrowser" is-config="true" duration-ms="925" started-at="2022-10-25T10:59:09 IST" finished-at="2022-10-25T10:59:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- facebooklogin.TestClassforcrossbrws -->
+    </test> <!-- Chrometest -->
+    <test name="Firefoxtest" duration-ms="30628" started-at="2022-10-25T10:58:50 IST" finished-at="2022-10-25T10:59:20 IST">
+      <class name="facebooklogin.TestClassforcrossbrws">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="launchBrowser" is-config="true" duration-ms="11900" started-at="2022-10-25T10:58:50 IST" finished-at="2022-10-25T10:59:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="createPOMObjects()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="createPOMObjects" is-config="true" duration-ms="5" started-at="2022-10-25T10:59:02 IST" finished-at="2022-10-25T10:59:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPOMObjects -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="beforeMethod" is-config="true" duration-ms="7494" started-at="2022-10-25T10:59:02 IST" finished-at="2022-10-25T10:59:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test123()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="test123" duration-ms="1482" started-at="2022-10-25T10:59:09 IST" finished-at="2022-10-25T10:59:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test123 -->
+        <test-method status="PASS" signature="logOutFromApllication()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="logOutFromApllication" is-config="true" duration-ms="1" started-at="2022-10-25T10:59:11 IST" finished-at="2022-10-25T10:59:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApllication -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="beforeMethod" is-config="true" duration-ms="2807" started-at="2022-10-25T10:59:11 IST" finished-at="2022-10-25T10:59:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1234()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="test1234" duration-ms="1881" started-at="2022-10-25T10:59:13 IST" finished-at="2022-10-25T10:59:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1234 -->
+        <test-method status="PASS" signature="logOutFromApllication()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="logOutFromApllication" is-config="true" duration-ms="0" started-at="2022-10-25T10:59:15 IST" finished-at="2022-10-25T10:59:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromApllication -->
+        <test-method status="PASS" signature="clearObject()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="clearObject" is-config="true" duration-ms="0" started-at="2022-10-25T10:59:15 IST" finished-at="2022-10-25T10:59:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObject -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:facebooklogin.TestClassforcrossbrws@5579bb86]" name="closeBrowser" is-config="true" duration-ms="5044" started-at="2022-10-25T10:59:15 IST" finished-at="2022-10-25T10:59:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- facebooklogin.TestClassforcrossbrws -->
+    </test> <!-- Firefoxtest -->
+  </suite> <!--  regressionSuite -->
+</testng-results>
